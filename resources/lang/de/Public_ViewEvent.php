@@ -38,7 +38,7 @@ return array (
   'free' => 'KOSTENLOS',
   'inc_fees' => '(incl. :fees Gebühren)',
   'last_name' => 'Nachname',
-  'offline_payment_instructions' => 'Offline Zahlungsanweisungen',
+  'offline_payment_instructions' => 'Anmerkungen zur Offline-Bezahlung',
   'offline_payment_methods_available' => 'Offline Zahlungsmöglichkeiten verfügbar',
   'order_attendees' => 'Teilnehmer buchen',
   'order_awaiting_payment' => 'Diese Bestellung wartet noch auf Bezahlung. Bitte lesen Sie untenstehende Anweisungen um zu Bezahlen.',
