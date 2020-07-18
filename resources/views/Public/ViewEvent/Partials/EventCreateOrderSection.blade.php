@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="row"><div class="col-md-12">&nbsp;</div></div>
-                <div class="row">
+                <div class="row hidden">
                     <div class="col-md-12">
                         <div class="form-group">
                             <div class="custom-checkbox">
